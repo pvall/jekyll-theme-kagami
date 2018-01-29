@@ -1,10 +1,10 @@
 ---
 layout: post
-title: An Exhibit of Markdown
+title: story extracted from 'Joke' by Chastity Belt
 description: This note demonstrates some of what Markdown is capable of doing.
 ---
 
-_From [An Exhibit of Markdown](http://www.markitdown.net/markdown) by DAVID JOHNSTONE_
+<iframe src="https://open.spotify.com/embed/track/2sOFb3iokT8caudADc3ZnN" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
