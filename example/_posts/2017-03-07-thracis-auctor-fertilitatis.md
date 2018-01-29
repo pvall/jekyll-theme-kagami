@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Thracis Auctor Fertilitatis
-tags: Lorem
+title: 'Joke' ::: Chastity Belt
+tags: chastitybelt 
 cover_url: https://s2.banana.moe/unsplash_colle/romain-vignes-53940.jpg
 ---
 
