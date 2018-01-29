@@ -1,7 +1,7 @@
 ---
 layout: post-list
 title: songs2stories
-cover_url: https://www.facebook.com/photo.php?fbid=10215101508435919&l=0b560fbd76
+cover_url: https://s2.banana.moe/unsplash_colle/amador-loureiro-779.jpg
 navlevel: header
 navtitle: s2s
 ---
