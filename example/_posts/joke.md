@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Joke' ::: Chastity Belt
+title: Joke
+'::': Chastity Belt
 description: This note demonstrates some of what Markdown is capable of doing.
+published: true
 ---
-
-<iframe src="https://open.spotify.com/embed/track/2sOFb3iokT8caudADc3ZnN" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
@@ -88,4 +88,3 @@ There's actually a lot more to Markdown than this. See the official [introductio
   [3]: http://www.markitdown.net/
   [4]: http://daringfireball.net/projects/markdown/basics
   [5]: http://daringfireball.net/projects/markdown/syntax
-
