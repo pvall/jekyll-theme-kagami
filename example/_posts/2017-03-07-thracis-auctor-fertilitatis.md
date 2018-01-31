@@ -1,7 +1,5 @@
 ---
 layout: post
-title: 'Joke' ::: Chastity Belt
-tags: chastitybelt 
 cover_url: https://s2.banana.moe/unsplash_colle/romain-vignes-53940.jpg
 ---
 
