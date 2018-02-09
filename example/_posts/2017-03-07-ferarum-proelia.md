@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joke by Chastity Belt
+title: joke ~ chastity belt
 description: This note demonstrates some of what Markdown is capable of doing.
 tag: joke
 ---
