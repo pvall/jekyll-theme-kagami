@@ -1,7 +1,9 @@
 ---
+---
 layout: post
-title: Ferarum Proelia
-tag: Lorem
+title: Joke by Chastity Belt
+description: This note demonstrates some of what Markdown is capable of doing.
+tag: joke
 ---
 
 Lorem markdownum lumina qua versus temeraria fecerat. Modo iuvenali nubila.
