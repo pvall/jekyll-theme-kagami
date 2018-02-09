@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Joke by Chastity Belt
 description: This note demonstrates some of what Markdown is capable of doing.
