@@ -5,6 +5,8 @@ description: This note demonstrates some of what Markdown is capable of doing.
 tag: joke
 ---
 
+<iframe src="https://open.spotify.com/embed/track/2sOFb3iokT8caudADc3ZnN" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
 Lorem markdownum lumina qua versus temeraria fecerat. Modo iuvenali nubila.
 Ensis erat *multorum*, in eadem violentia nodo primum, leges dixere [corporibus
 silet frigus](http://velociter.org/) dedit. Cadmeida excidit **nec** tamen
