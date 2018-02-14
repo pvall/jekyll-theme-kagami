@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'Joke,Chastity Belt'
-description: This note demonstrates some of what Markdown is capable of doing.
+title: 'Joke ~ Chastity Belt'
 published: true
 ---
 
