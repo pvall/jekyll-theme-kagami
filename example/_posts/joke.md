@@ -4,8 +4,6 @@ title: Joke, Chastity Belt
 published: true
 ---
 
-song: Joke ~ Chastity Belt
-aeoifaeiof
 
 Legal weed, what a fucking trip. 
 
