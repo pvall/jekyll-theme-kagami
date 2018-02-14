@@ -1,10 +1,5 @@
 ---
 layout: post
-cover_url: 'https://s2.banana.moe/unsplash_colle/romain-vignes-53940.jpg'
-published: true
----
----
-layout: post
 title: 'Walk ~ (Sandy) Alex G'
 published: true
 ---
