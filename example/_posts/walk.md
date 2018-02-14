@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Walk ~ (Sandy) Alex G'
+title: 'Walk, (Sandy) Alex G'
 published: true
 ---
 
