@@ -5,9 +5,7 @@ description: This note demonstrates some of what Markdown is capable of doing.
 published: true
 ---
 
-song: Joke :: Chastity Belt
-
-title of this shit: dope 
+song: Joke ~ Chastity Belt
 
 Legal weed, what a fucking trip. 
 
