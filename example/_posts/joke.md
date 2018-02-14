@@ -5,7 +5,7 @@ description: This note demonstrates some of what Markdown is capable of doing.
 published: true
 ---
 
-# song: Joke ~ Chastity Belt
+song: Joke ~ Chastity Belt
 
 Legal weed, what a fucking trip. 
 
@@ -70,7 +70,6 @@ And I felt fi -ine.
 
 Everything's smoke.  
 
-_								We can set our world on fyuuuu - uu - uuu - ur 
-_
+_We can set our world on fyuuuu - uu - uuu - ur_
 
 
