@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joke ~ Chastity Belt'
+title: Joke ~ Chastity Belt
 published: true
 ---
 
@@ -70,5 +70,3 @@ And I felt fi -ine.
 Everything's smoke.  
 
 _We can set our world on fyuuuu - uu - uuu - ur_
-
-
