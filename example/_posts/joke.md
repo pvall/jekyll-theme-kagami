@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Joke, Chastity Belt
-published: true
 ---
 
 
