@@ -1,7 +1,7 @@
 ---
 layout: post
 title: joke ~ chastity belt
-description: This note demonstrates some of what Markdown is capable of doing.
+description: A story. Based on a song. By a beautiful band called Chastity Belt. 
 tag: joke
 published: true
 ---
