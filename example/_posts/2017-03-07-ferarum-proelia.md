@@ -8,9 +8,6 @@ published: true
 
 <iframe src="https://open.spotify.com/embed/track/2sOFb3iokT8caudADc3ZnN" width="300" height="300" align="center" frameborder=".5" allowtransparency="true"></iframe>
 
-Song: Joke by Chastity Belt
-title of this shit: dope 
-
 Legal weed, what a fucking trip. 
 
 A few decades ago this shit would have me in prison. Black as night, caught with the ganja, my ass would be locked up, and the trial would be a shitty version of Judge Judy -- on in the background, no one paying attention. 
